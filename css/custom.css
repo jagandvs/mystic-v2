@@ -106,3 +106,31 @@
 #header[data-transparent="true"] + #page-title {
   padding: 150px 0px 120px 0px;
 }
+
+.sms-hero h4 {
+  font-size: 60px;
+
+  line-height: 74px;
+  letter-spacing: -1.6px;
+}
+.sms-hero p {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 35px;
+}
+.sms-hero img {
+  height: 400px;
+  width: 400px;
+}
+.tabs .nav-tabs .nav-link:hover {
+  color: brown;
+}
+.tabs .nav-tabs .nav-link.active {
+  border-bottom: 2px solid rgb(201, 7, 65);
+  color: rgb(201, 7, 65);
+}
+.sms-about-iconbox .icon-box {
+  padding: 20px;
+  height: 250px;
+  width: 100%;
+}
