@@ -108,9 +108,9 @@
 }
 
 .sms-hero h4 {
-  font-size: 60px;
+  font-size: 6vw;
 
-  line-height: 74px;
+  line-height: 6vw;
   letter-spacing: -1.6px;
 }
 .sms-hero p {
@@ -133,4 +133,9 @@
   padding: 20px;
   height: 250px;
   width: 100%;
+}
+.pricing-table.colored .plan-header {
+  /* background-color: #00a6c0; */
+  /* background-color: #0c71c3; */
+  background: radial-gradient(circle at center, #00a6c0 0%, #0c71c3 100%);
 }
